@@ -26,4 +26,4 @@ jobs:
             - run: node app.js
               env:
                 JD_COOKIE: ${{ secrets.JD_COOKIE_ZH }}
-                PUSH_KEY: ${{ secrets.PUSH_KEY_ZH }}
+                PUSH_KEY: ${{ secrets.PUSH_KEY }}
