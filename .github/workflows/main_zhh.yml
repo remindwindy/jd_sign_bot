@@ -7,7 +7,7 @@ name: Github JD-sign bot3
 on:
     push:
         branches:
-            - master
+            - gongst-patch-1
     schedule:
         - cron: '10 16 * * *'
 jobs:
