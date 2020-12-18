@@ -18,3 +18,4 @@
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 输入地址 https://plogin.m.jd.com/login/login 并打开网页
 拷贝当前的 cookie
+test
